@@ -12,7 +12,7 @@ get '/goodbye' do
 	erb :goodbye
 end
 
-et '/date' do
+get '/date' do
 	erb :date
 end
 
